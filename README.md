@@ -31,8 +31,7 @@ npm i xvfb
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/sosovalue-autoreff.git
-   cd sosovalue-autoreff
+   
    ```
 
 2. Install the dependencies:
